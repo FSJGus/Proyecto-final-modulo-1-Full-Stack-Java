@@ -1,15 +1,8 @@
-# Proyecto-final-modulo-1-Full-Stack-Java
-Prueba final del modulo 1 del BootCamp Full Stack Java
+# Proyecto-modulo-1-Security
 
-Grupo Sayayines
-Curso: 156-3
+Cod: 156-3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Integrantes:
-Gonzalo Godoy
-Yossie Muñoz
-Carlos Estay
 Gustavo Lima
-Vanessa Amaro
 
 Problemática y Requerimiento
 
